@@ -27,3 +27,8 @@ List references / resources that were useful in developing the project:
 - [Streamlit Docs](https://docs.streamlit.io/)
 - [Ollama Docs](https://ollama.com/)
 - [LangChain Docs](https://www.langchain.com/docs/)
+
+
+## Acknowledgements
+
+- [Tech With Tim](https://www.youtube.com/@TechWithTim)
